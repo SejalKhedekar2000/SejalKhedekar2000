@@ -42,15 +42,3 @@ Full-stack engineer with 2 years at TCS building healthcare platforms for 10,000
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SejalKhedekar2000&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejalKhedekar2000&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-<p align="center">
-  US work authorized, no sponsorship needed &nbsp;|&nbsp; Open to relocation
-</p>
